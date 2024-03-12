@@ -15,14 +15,17 @@
     <!-- Styles -->
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
 </head>
-<body class="bg-gray-100 h-screen antialiased leading-none font-Hitmarker Text Regular">
+<body class="bg-gray-100 h-screen antialiased leading-none font-sans">
     <div id="app">
-        <header class="bg-white-900 py-6">
+        <header class="bg-blue-900 py-6">
             <div class="container mx-auto flex justify-between items-center px-6">
                 <div>
-                    <a href="{{ url('/') }}" class="text-lg font-semibold text-black-100 no-underline">
-                    CodeTech
+                    <a href="{{ url('/') }}" class="text-lg font-semibold text-gray-100 no-underline">
+                        Call Of Duty
                     </a>
+                    <div class="theLogo">
+                    <img class="theImage" src="https://1000logos.net/wp-content/uploads/2021/04/Call-of-Duty-logo.png" alt="">
+                    </div>
                 </div>
                 <nav class="space-x-4 text-gray-300 text-sm sm:text-base">
                     @guest
