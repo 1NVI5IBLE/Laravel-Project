@@ -7,7 +7,7 @@
 
 .background-image
 {
-  background-image: url('https://assets-prd.ignimgs.com/2023/11/03/mw3-blog-1699032197236.jpg');
+  background-image: url('https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/patchnotes/body/mwiii/mp/preseason/MWIII_Preseason_PatchNotes.png');
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -18,5 +18,10 @@
 .theLogo
 {
     display: flex;
+}
+
+.mwLogo
+{
+  height: 200;
 }
 
