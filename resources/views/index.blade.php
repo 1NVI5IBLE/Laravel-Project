@@ -36,6 +36,8 @@
             <h2 class="text-3xl font-extrabold  text-gray-600">
                 ADAPT OR DIE IN A FIGHT AGAINST THE ULTIMATE THREAT
             </h2>
+
+            <br>
             
             <p class="font-extrabold text-gray-600 text-s pb-9">
             Combat means making choices – different loadouts, different paths through the mission. In addition to the signature, cinematic Call of Duty campaign missions, Call of Duty: Modern Warfare III introduces open combat missions that provide more player choice.
