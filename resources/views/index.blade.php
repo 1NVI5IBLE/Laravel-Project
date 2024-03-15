@@ -68,6 +68,8 @@
             Dive into 16 modernized maps from the original Modern Warfare 2 (2009) with new modes and gameplay features, and over 12 all-new core 6v6 maps rolling out during post-launch live seasons. Plus, new Ground War maps boasting innovative play spaces and the epic return and evolution of the popular War Mode that first debuted in 2017’s Call of Duty: WWII.
             </p>
 
+            <br>
+
             <a 
                 href="/blog"
                 class="uppercase bg-red-600 hover:bg-red-700 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
