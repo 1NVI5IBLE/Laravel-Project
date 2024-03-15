@@ -53,7 +53,7 @@
 
         <button    
             type="submit"
-            class="uppercase mt-15 bg-red-500 text-white text-lg font-extrabold py-4 px-8 rounded-3xl">
+            class="uppercase mt-15 bg-red-600 text-white text-lg font-extrabold py-4 px-8 rounded-3xl">
             Submit Post
         </button>
     </form>

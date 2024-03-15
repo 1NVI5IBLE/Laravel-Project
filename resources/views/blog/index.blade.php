@@ -21,7 +21,7 @@
     <div class="pt-15 w-4/5 m-auto">
         <a 
             href="/blog/create"
-            class="bg-red-500 uppercase bg-transparent text-white text-xs font-extrabold py-3 px-5 rounded-3xl">
+            class="bg-red-600 uppercase bg-transparent text-white text-xs font-extrabold py-3 px-5 rounded-3xl">
             Create post
         </a>
     </div>
@@ -45,7 +45,7 @@
                 {{ $post->description }}
             </p>
 
-            <a href="/blog/{{ $post->slug }}" class="uppercase bg-red-500 text-white text-lg font-extrabold py-4 px-8 rounded-3xl">
+            <a href="/blog/{{ $post->slug }}" class="uppercase bg-red-600 text-white text-lg font-extrabold py-4 px-8 rounded-3xl">
                 Keep Reading
             </a>
 
