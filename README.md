@@ -47,3 +47,7 @@ php artisan migrate
 
 ## Contributing
 Do not hesitate to contribute to the project by adapting or adding features ! Bug reports or pull requests are welcome.
+
+
+Images taken from https://www.callofduty.com/modernwarfare3
+Blog info taken from https://www.callofduty.com/modernwarfare3
