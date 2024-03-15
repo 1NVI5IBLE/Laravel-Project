@@ -43,7 +43,7 @@
 
             <a 
                 href="/blog"
-                class="uppercase bg-red-600 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
+                class="uppercase bg-red-600 hover:text-red-700 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
                 Find Out More
             </a>
         </div>
@@ -68,7 +68,7 @@
 
             <a 
                 href="/blog"
-                class="uppercase bg-red-600 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
+                class="uppercase bg-red-600 hover:text-red-700 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
                 Find Out More
             </a>
         </div>
@@ -93,7 +93,7 @@
 
             <a 
                 href="/blog"
-                class="uppercase bg-red-600 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
+                class="uppercase bg-red-600 hover:text-red-700 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
                 Find Out More
             </a>
         </div>
