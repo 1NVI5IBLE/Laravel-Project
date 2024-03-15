@@ -41,6 +41,8 @@
             Combat means making choices – different loadouts, different paths through the mission. In addition to the signature, cinematic Call of Duty campaign missions, Call of Duty: Modern Warfare III introduces open combat missions that provide more player choice.
             </p>
 
+            <br>
+
             <a 
                 href="/blog"
                 class="uppercase bg-red-600 hover:bg-red-700 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
