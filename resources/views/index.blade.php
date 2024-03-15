@@ -15,7 +15,7 @@
                 </h1>
                 <a 
                     href="/blog"
-                    class="text-center bg-gray-50 text-gray-700 py-2 px-4 font-bold text-xl uppercase rounded-1xl">
+                    class="text-center bg-gray-50 text-gray-700 hover:bg-gray-200 py-2 px-4 font-bold text-xl uppercase rounded-1xl">
                     Read More
                 </a>
             </div>
