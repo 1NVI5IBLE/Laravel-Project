@@ -125,7 +125,8 @@
             PLAY SEASON 2 NOW!
             </h2>
 
-            
+            <br>
+
             <p class="font-extrabold text-gray-600 text-s pb-9">
             Compete across several new multiplayer maps, and multiple new game modes. Climb the ranks in Season 2 of Ranked Play, take on the next Zombies story mission, and more.
             </p>
