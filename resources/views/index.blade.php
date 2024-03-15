@@ -128,11 +128,11 @@
         </span>
 
         <h2 class="text-4xl font-bold py-10">
-            
+           Thanks for visiting 
         </h2>
 
         <p class="m-auto w-4/5 text-gray-500">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque exercitationem saepe enim veritatis, eos temporibus quaerat facere consectetur qui.
+        
         </p>
     </div>
 
