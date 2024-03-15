@@ -45,7 +45,7 @@
                 {{ $post->description }}
             </p>
 
-            <a href="/blog/{{ $post->slug }}" class="uppercase bg-red-600 text-white text-lg font-extrabold py-4 px-8 rounded-3xl">
+            <a href="/blog/{{ $post->slug }}" class="uppercase bg-red-600 hover:bg-red-700 text-white text-lg font-extrabold py-4 px-8 rounded-3xl">
                 Keep Reading
             </a>
 
