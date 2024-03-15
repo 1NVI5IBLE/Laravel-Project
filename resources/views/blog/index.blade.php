@@ -21,7 +21,7 @@
     <div class="pt-15 w-4/5 m-auto">
         <a 
             href="/blog/create"
-            class="bg-red-600 uppercase bg-transparent text-white text-xs font-extrabold py-3 px-5 rounded-3xl">
+            class="bg-red-600 hover:bg-red-700 uppercase bg-transparent text-white text-xs font-extrabold py-3 px-5 rounded-3xl">
             Create post
         </a>
     </div>
@@ -33,7 +33,7 @@
             <img src="{{ asset('images/' . $post->image_path) }}" alt="">
         </div>
         <div>
-            <h2 class="text-red-600 font-bold text-5xl pb-4">
+            <h2 class="text-red-600 hover:bg-red-700 font-bold text-5xl pb-4">
                 {{ $post->title }}
             </h2>
 
