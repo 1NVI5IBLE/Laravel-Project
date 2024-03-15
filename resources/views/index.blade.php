@@ -95,6 +95,8 @@
             For the first time, team up with other squads to survive and fight massive hordes of the undead in the largest Call of Duty Zombies map ever. Call of Duty: Modern Warfare III Zombies (MWZ) tells a new Treyarch Zombies story with missions, core Zombies features, and secrets to discover. Ready up for an open world PvE survival experience against some of the biggest enemies in Call of Duty history.​ 
             </p>
 
+            <br>
+
             <a 
                 href="/blog"
                 class="uppercase bg-red-600 hover:bg-red-700 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
