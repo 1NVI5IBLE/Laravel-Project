@@ -13,6 +13,8 @@
                 "In the war that changed the world, no one fought alone."
 
                 </h1>
+
+                <br>
                 <a 
                     href="/blog"
                     class="text-center bg-gray-50 text-gray-700 hover:bg-gray-200 py-2 px-4 font-bold text-xl uppercase rounded-1xl">
