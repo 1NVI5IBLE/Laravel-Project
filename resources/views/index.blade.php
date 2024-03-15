@@ -132,7 +132,7 @@
         </h2>
 
         <p class="m-auto w-4/5 text-gray-500">
-        
+        ©COD BLOG
         </p>
     </div>
 
